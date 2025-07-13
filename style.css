@@ -167,7 +167,13 @@ nav ul li a {
     line-height: 2;
 }
 
+.testimonials-boxs h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
 .testimonials-boxs p {
+    text-align: center;
     margin: 0;
 }
 
